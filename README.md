@@ -30,5 +30,5 @@ Bu proje, honeypot sistemine düşen şüpheli IP adreslerini analiz eden ve bu 
 
 ---
 
-Aşağıdaki site üzerinden Lisans anahtarı ve kullanıcı ID'nizi elde edebilirsiniz.
+Bu site üzerinden Lisans anahtarı ve kullanıcı ID'nizi elde edebilirsiniz.
 https://www.maxmind.com/en/home
